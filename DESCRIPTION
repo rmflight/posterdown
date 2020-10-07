@@ -1,4 +1,4 @@
-Package: posterdown
+Package: rmflightPosterdown
 Title: Generate PDF Conference Posters Using R Markdown
 Version: 1.0
 Authors@R: 
